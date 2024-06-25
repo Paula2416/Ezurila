@@ -1,0 +1,7 @@
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://images.app.goo.gl/NzrvkcgpHCeb3ATJ7);
+    background-position: center;
+    background-size:contain;
+}
