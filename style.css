@@ -13,3 +13,10 @@ nav{
     padding-top: 45px;
     padding-right: 10%;
 }
+.logo{
+    color: blue;
+    font-size: 40px;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
